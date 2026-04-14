@@ -5,7 +5,7 @@ function App() {
 
   useEffect(() => {
     const redirectTimer = setTimeout(() => {
-      window.location.href = "https://your-new-website.com";
+      window.location.href = "https://newwebsite.com";
     }, 5000);
 
     const countdown = setInterval(() => {
