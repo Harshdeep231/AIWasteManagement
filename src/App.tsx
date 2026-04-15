@@ -5,7 +5,7 @@ function App() {
 
   useEffect(() => {
     const redirectTimer = setTimeout(() => {
-      window.location.href = "https://newwebsite.com";
+      window.location.href = "https://ecotrack-ai-frontend.onrender.com";
     }, 5000);
 
     const countdown = setInterval(() => {
